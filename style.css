@@ -1,0 +1,47 @@
+body {
+  background-color: rgb(25, 25, 25);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  padding-top: 10px;
+}
+
+button {
+  cursor: pointer;
+}
+
+.btn1 {
+  background-color: transparent;
+  border: 3px solid white;
+  border-radius: 50%;
+  padding: 30px;
+  margin: 5px;
+}
+
+img {
+  width: 50px;
+}
+
+.btn2, .btn3, .yes-btn, .no-btn {
+  border: none;
+  padding: 10px 15px;
+  font-size: 15px;
+}
+
+.result {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+.score {
+  margin-top: 60px;
+}
+
+.reset-score-message-style {
+  background-color: rgb(43, 42, 42);
+  padding: 20px;
+}
